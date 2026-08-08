@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/venu183/applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/venu183/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1154-day-of-the-year](https://github.com/venu183/applied-programming-skills/tree/master/1154-day-of-the-year) |
 ## Queue
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/venu183/applied-programming-skills/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [1154-day-of-the-year](https://github.com/venu183/applied-programming-skills/tree/master/1154-day-of-the-year) |
 <!---LeetCode Topics End-->
