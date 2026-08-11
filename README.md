@@ -53,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1154-day-of-the-year](https://github.com/venu183/applied-programming-skills/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/venu183/applied-programming-skills/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
