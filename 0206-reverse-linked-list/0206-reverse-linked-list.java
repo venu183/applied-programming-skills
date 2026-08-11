@@ -4,10 +4,10 @@ class Solution {
         ListNode current = head;
 
         while (current != null) {
-            ListNode next = current.next; // Save next node
-            current.next = prev;          // Reverse the link
-            prev = current;               // Move prev forward
-            current = next;               // Move current forward
+            ListNode next = current.next; 
+            current.next = prev;          
+            prev = current;               
+            current = next;                 
         }
 
         return prev;
