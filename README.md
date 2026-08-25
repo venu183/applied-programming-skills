@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/venu183/applied-programming-skills/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venu183/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/venu183/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/venu183/applied-programming-skills/tree/master/1470-shuffle-the-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/venu183/applied-programming-skills/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/venu183/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/venu183/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/venu183/applied-programming-skills/tree/master/0344-reverse-string) |
