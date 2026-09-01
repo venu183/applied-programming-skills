@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venu183/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/venu183/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/venu183/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/venu183/applied-programming-skills/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/venu183/applied-programming-skills/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/venu183/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/venu183/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/venu183/applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -105,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/venu183/applied-programming-skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
