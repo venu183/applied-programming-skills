@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/venu183/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/venu183/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/venu183/applied-programming-skills/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venu183/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/venu183/applied-programming-skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [1470-shuffle-the-array](https://github.com/venu183/applied-programming-skills/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/venu183/applied-programming-skills/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/venu183/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/venu183/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/venu183/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
