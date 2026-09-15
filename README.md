@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venu183/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/venu183/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/venu183/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venu183/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/venu183/applied-programming-skills/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venu183/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/venu183/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/venu183/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/venu183/applied-programming-skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/venu183/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/venu183/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/venu183/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venu183/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/venu183/applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/venu183/applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
