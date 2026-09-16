@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/venu183/applied-programming-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/venu183/applied-programming-skills/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venu183/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/venu183/applied-programming-skills/tree/master/0239-sliding-window-maximum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/venu183/applied-programming-skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/venu183/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/venu183/applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/venu183/applied-programming-skills/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
